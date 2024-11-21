@@ -1,0 +1,1 @@
+import{a as r,t as n}from"../chunks/disclose-version.Cf113ikx.js";import"../chunks/legacy.C_H96vc7.js";import{f as p,n as m}from"../chunks/runtime.Bb40ngOF.js";import{N as e}from"../chunks/Nav.B2cle7kn.js";var s=n("<!> <span>contato</span>",1);function d(o){var a=s(),t=p(a);e(t),m(2),r(o,a)}export{d as component};
