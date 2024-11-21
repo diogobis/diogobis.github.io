@@ -4,4 +4,4 @@
 
 <Nav></Nav>
 
-<span>home</span>
+<span>contato</span>
