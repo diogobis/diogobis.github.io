@@ -4,5 +4,5 @@
 
 <nav>
 	<a href="{base}/">Home</a>
-	<a href="{base}/about">About</a>
+	<a href="{base}/">About</a>
 </nav>
